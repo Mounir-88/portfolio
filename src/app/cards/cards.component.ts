@@ -40,7 +40,12 @@ export class CardsComponent {
       title: 'Madame Sensitive',
       description: 'The goal of this project was to apply machine learning and data mining techniques. I developed "Madame Sensitive," a sentiment analysis tool, and added a feature that demonstrates how the data can be processed and interpreted.',
       video: 'Madame Sensitive.mp4'
-    }
+    },
+    {
+      title: 'LaceUp',
+      description: 'LaceUp was my final year project, developed in a team of 4. I built the entire mobile application using Flutter and served as the Scrum Master. LaceUp is a platform that simplifies organizing and joining sports games. I managed sprints, assigned tasks, and implemented features like venue creation, event management, and more.',
+      video: 'LaceUp.mp4',
+    }    
   ];  
 
   openDetails(project: Project) {
