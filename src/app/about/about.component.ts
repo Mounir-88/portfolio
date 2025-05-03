@@ -24,7 +24,7 @@ export class AboutComponent {
       open: false
     },
     {
-      title: 'Ongoing Projects',
+      title: 'Latest Projects',
       items: [
         'LaceUp (Final Year Project) - Scrum Master',
         'Tech Stack: Azure, Flutter, MEAN Stack'
